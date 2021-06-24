@@ -1,0 +1,1 @@
+Images with faces are stored here with a rectangle around face

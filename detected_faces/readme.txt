@@ -1,0 +1,1 @@
+Detected faces cropped from the images are stored here
